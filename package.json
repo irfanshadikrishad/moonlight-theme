@@ -2,10 +2,26 @@
   "name": "moonlight-theme",
   "displayName": "Moonlight",
   "description": "Moonlight dark theme.",
-  "version": "0.0.1",
+  "publisher": "irfanshadikrishad",
+  "version": "1.0.0",
   "engines": {
     "vscode": "^1.84.0"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/irfanshadikrishad/moonlight-theme"
+  },
+  "keywords": [
+    "moonlight-theme",
+    "moonlight",
+    "moonlight theme",
+    "irfanshadikrishad",
+    "irfanshadikrishad theme",
+    "dark theme",
+    "moonlight dark",
+    "moonlight-dark",
+    "theme"
+  ],
   "categories": [
     "Themes"
   ],
