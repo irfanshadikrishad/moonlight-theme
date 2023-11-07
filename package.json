@@ -1,0 +1,21 @@
+{
+  "name": "moonlight-theme",
+  "displayName": "Moonlight",
+  "description": "Moonlight dark theme.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.84.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Moonlight",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Moonlight-color-theme.json"
+      }
+    ]
+  }
+}
