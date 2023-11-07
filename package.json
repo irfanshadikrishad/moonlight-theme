@@ -1,7 +1,7 @@
 {
-  "name": "moonlight-theme",
-  "displayName": "Moonlight",
-  "description": "Moonlight dark theme.",
+  "name": "moonlight-theme-v2",
+  "displayName": "Moonlight v2",
+  "description": "Moonlight v2 dark theme.",
   "publisher": "irfanshadikrishad",
   "version": "1.0.0",
   "engines": {
@@ -12,13 +12,13 @@
     "url": "https://github.com/irfanshadikrishad/moonlight-theme"
   },
   "keywords": [
-    "moonlight-theme",
-    "moonlight",
-    "moonlight theme",
+    "moonlight-theme-v2",
+    "moonlight-v2",
+    "moonlight theme v2",
     "irfanshadikrishad",
     "irfanshadikrishad theme",
     "dark theme",
-    "moonlight dark",
+    "moonlight v2 dark",
     "moonlight-dark",
     "theme"
   ],
