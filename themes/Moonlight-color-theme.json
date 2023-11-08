@@ -48,7 +48,7 @@
       "scope": ["comment", "punctuation.definition.comment"],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#546E7A"
+        "foreground": "#8E806A"
       }
     },
     {
@@ -97,7 +97,8 @@
         "keyword.other.substitution"
       ],
       "settings": {
-        "foreground": "#bbbbbb"
+        "fontStyle": "italic bold",
+        "foreground": "#64CCC5"
       }
     },
     {
