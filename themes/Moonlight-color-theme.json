@@ -55,7 +55,8 @@
       "name": "Variables",
       "scope": ["variable", "string constant.other.placeholder"],
       "settings": {
-        "foreground": "#C792EA"
+        "fontStyle": "bold",
+        "foreground": "#91C788"
       }
     },
     {
@@ -74,7 +75,7 @@
     },
     {
       "name": "Keyword, Storage",
-      "scope": ["keyword", "storage.type", "storage.modifier"],
+      "scope": ["keyword", "storage.modifier"],
       "settings": {
         "fontStyle": "italic bold",
         "foreground": "#00A9FF"
@@ -585,6 +586,56 @@
       "scope": ["markup.table"],
       "settings": {
         "foreground": "#EEFFFF"
+      }
+    },
+    {
+      "name": "dotenv",
+      "scope": ["property.value.dotenv", "source.dotenv"],
+      "settings": {
+        "foreground": "#8ECDDD",
+        "fontStyle": "italic bold"
+      }
+    },
+    {
+      "name": "ignore",
+      "scope": ["source.ignore"],
+      "settings": {
+        "foreground": "#525252",
+        "fontStyle": "bold"
+      }
+    },
+    {
+      "name": "source",
+      "scope": [
+        "source.python",
+        "source.perl",
+        "source.c",
+        "source.swift",
+        "source.java",
+        "source.rust",
+        "source.css",
+        "source.sql",
+        "source.r"
+      ],
+      "settings": {
+        "foreground": "#FDC57B",
+        "fontStyle": "bold"
+      }
+    },
+    {
+      "name": "storage",
+      "scope": ["storage.type", "storage.modifier"],
+      "settings": {
+        "foreground": "#A8D1D1",
+        "fontStyle": "bold"
+      }
+    },
+    {
+      "name": "meta",
+      "scope": ["storage.modifier.import.java"],
+      "settings": {
+        "foreground": "#76BA99",
+        "fontStyle": "bold"
       }
     }
   ]
