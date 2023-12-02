@@ -637,6 +637,14 @@
         "foreground": "#76BA99",
         "fontStyle": "bold"
       }
+    },
+    {
+      "name": "markdown",
+      "scope": ["meta.paragraph.markdown"],
+      "settings": {
+        "foreground": "#45474B",
+        "fontStyle": "bold"
+      }
     }
   ]
 }
