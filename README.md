@@ -8,11 +8,9 @@ feel free to report issues [here.](https://github.com/irfanshadikrishad/moonligh
 
 #### Screenshots
 
-![Screenshot1](https://i.ibb.co/gwzYK0f/moonlight-preview-1.jpg)
+![Screenshot1](assets/preview/moonlight-preview-1.png)
 
-![Screenshot2](https://i.ibb.co/DKyrPGc/moonlight-preview-2.jpg)
-
-![Screenshot-3](https://i.ibb.co/hCCxb1d/moonlight-preview-3.jpg)
+![Screenshot2](assets/preview/moonlight-preview-1.png)
 
 > like this theme? You might like this as well, please consider checking out [Meow](https://marketplace.visualstudio.com/items?itemName=irfanshadikrishad.meow)
 
@@ -20,7 +18,7 @@ feel free to report issues [here.](https://github.com/irfanshadikrishad/moonligh
 
 for better experience [download](https://www.jetbrains.com/lp/mono/) and install _'JetBrains Mono'_ and set this codes in `settings.json`
 
-```
+```javascript
 "editor.fontLigatures": true,
 "editor.fontFamily": "JetBrains Mono",
 ```

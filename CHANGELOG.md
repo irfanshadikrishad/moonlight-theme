@@ -1,5 +1,9 @@
 ## CHANGELOG
 
+#### 1.2.0 | 22.12.2023
+
+- whole template changed
+
 #### 1.1.0 | 2.12.2023
 
 - logo changed
