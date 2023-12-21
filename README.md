@@ -8,9 +8,9 @@ feel free to report issues [here.](https://github.com/irfanshadikrishad/moonligh
 
 #### Screenshots
 
-<img src="assets/preview/moonlight-preview-1.png">
+<img src="assets/preview/moonlight-preview-1.PNG">
 
-<img src="assets/preview/moonlight-preview-2.png">
+<img src="assets/preview/moonlight-preview-2.PNG">
 
 > like this theme? You might like this as well, please consider checking out [Meow](https://marketplace.visualstudio.com/items?itemName=irfanshadikrishad.meow)
 
