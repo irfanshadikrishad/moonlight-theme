@@ -3,7 +3,7 @@
   "displayName": "Moonlight v2",
   "description": "Fresh & Clean looking dark theme.",
   "publisher": "irfanshadikrishad",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "icon": "images/moonlight.png",
   "engines": {
     "vscode": "^1.84.0"
