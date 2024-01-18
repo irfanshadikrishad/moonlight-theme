@@ -1,5 +1,11 @@
 ## CHANGELOG
 
+#### 1.2.2 | 19.01.2023
+
+- bug fix
+- icon changed
+- Typescript improvement
+
 #### 1.2.0 | 22.12.2023
 
 - whole template changed

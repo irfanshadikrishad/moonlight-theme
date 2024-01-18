@@ -521,7 +521,8 @@
         "punctuation.separator.comma.js",
         "punctuation.accessor.js",
         "punctuation.separator.parameter.js",
-        "keyword.operator.logical.js"
+        "keyword.operator.logical.js",
+        "keyword.operator.relational.js"
       ],
       "settings": {
         "foreground": "#FC9867",
@@ -1778,7 +1779,10 @@
         "storage.type.interface.ts",
         "storage.type.class.ts",
         "storage.type.ts",
-        "keyword.operator.new.ts"
+        "storage.type.type.ts",
+        "storage.type.function.ts",
+        "keyword.control.flow.ts",
+        "keyword.control.as.ts"
       ],
       "settings": {
         "foreground": "#FF6188"
@@ -1791,7 +1795,9 @@
         "entity.name.type.class.ts",
         "entity.name.function.ts",
         "variable.language.this.ts",
-        "variable.other.constant.ts"
+        "variable.other.constant.ts",
+        "entity.name.type.alias.ts",
+        "support.variable.property.ts"
       ],
       "settings": {
         "foreground": "#78DCE8"
@@ -1803,7 +1809,9 @@
         "variable.object.property.ts",
         "variable.parameter.ts",
         "entity.name.type.ts",
-        "variable.other.property.ts"
+        "variable.other.property.ts",
+        "meta.object-literal.key.ts",
+        "variable.other.object.ts"
       ],
       "settings": {
         "foreground": "#FC9867"
@@ -1811,14 +1819,18 @@
     },
     {
       "name": "TYPESCRIPT primitive",
-      "scope": ["support.type.primitive.ts", "variable.other.readwrite.ts"],
+      "scope": [
+        "support.type.primitive.ts",
+        "variable.other.readwrite.ts",
+        "keyword.operator.new.ts"
+      ],
       "settings": {
         "foreground": "#AB9DF2"
       }
     },
     {
       "name": "TYPESCRIPT string",
-      "scope": "string.quoted.double.ts",
+      "scope": ["string.quoted.double.ts", "string.template.ts"],
       "settings": {
         "foreground": "#A9DC76"
       }

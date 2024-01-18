@@ -1,9 +1,9 @@
 {
   "name": "moonlight-theme-v2",
-  "displayName": "Moonlight v2",
+  "displayName": "Moonlight Theme",
   "description": "Fresh & Clean looking dark theme.",
   "publisher": "irfanshadikrishad",
-  "version": "1.2.1",
+  "version": "1.2.2",
   "icon": "images/moonlight.png",
   "engines": {
     "vscode": "^1.84.0"
