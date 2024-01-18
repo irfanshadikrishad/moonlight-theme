@@ -1,9 +1,9 @@
 {
   "name": "moonlight-theme-v2",
-  "displayName": "Moonlight Theme",
+  "displayName": "Moonlight reBump",
   "description": "Fresh & Clean looking dark theme.",
   "publisher": "irfanshadikrishad",
-  "version": "1.2.2",
+  "version": "1.2.3",
   "icon": "images/moonlight.png",
   "engines": {
     "vscode": "^1.84.0"
@@ -21,7 +21,10 @@
     "dark theme",
     "moonlight v2 dark",
     "moonlight-dark",
-    "theme"
+    "theme",
+    "moonlight reBump",
+    "reBump",
+    "Moonlight reBump"
   ],
   "categories": [
     "Themes"
